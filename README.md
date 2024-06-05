@@ -22,12 +22,13 @@ Hi there! 👋
 * Database — MySQL, MongoDB, OracleDB
 * Python Libraries — Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Streamlit, etc
 * Operating System Environments — MacOS
-* Tools — Tableau, PowerBI, Android studio, Xcode, SpringToolSuite4, Postman
+* Tools — Android studio, Xcode, SpringToolSuite4, Postman, Tableau, PowerBI, etc
 
 ## Lets Coonect
 
 - 📫 How to reach me prajwalbendale872@gmail.com
 - :phone: +918668577437
+
 <!---
 PrajwalBendale/PrajwalBendale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
