@@ -1,4 +1,6 @@
+<p align="center">
 # Hi there! 👋
+</p>
 
 ## I’m Prajwal Bendale, Software Engineer
 
