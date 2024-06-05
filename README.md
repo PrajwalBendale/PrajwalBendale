@@ -15,14 +15,14 @@ Hi there! 👋
 
 - 💻 Develop robust and scalable software solutions
 
-- 🛠️ Work with
+* 🛠️ Work with
 
-* Programming Languages — Java, Python, JavaScript, ReactJS, NodeJS, Spring Boot, Android, Swift, iOS-development
-* Familiar Languages — C, C++, AngularJS, Django
-* Database — MySQL, MongoDB, OracleDB
-* Python Libraries — Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Streamlit, etc
-* Operating System Environments — MacOS
-* Tools — Android studio, Xcode, SpringToolSuite4, Postman, Tableau, PowerBI, etc
+- Programming Languages — Java, Python, JavaScript, ReactJS, NodeJS, Spring Boot, Android, Swift, iOS-development
+- Familiar Languages — C, C++, AngularJS, Django
+- Database — MySQL, MongoDB, OracleDB
+- Python Libraries — Numpy, Pandas, Matplotlib, Seaborn, Sklearn, Streamlit, etc
+- Operating System Environments — MacOS
+- Tools — Android studio, Xcode, SpringToolSuite4, Postman, Tableau, PowerBI, etc
 
 ## Lets Coonect
 
