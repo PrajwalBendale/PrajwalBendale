@@ -9,7 +9,7 @@ Hi there! 👋
 - 🌱 I’m currently learning deeply Native iOS Applications
 - 💞️ You can see my Resume through https://drive.google.com/file/d/1MlzDaFMYnTepIIau8QMndaKMVJQ8ntfe/view?usp=sharing
 - 📫 How to reach me prajwalbendale872@gmail.com
-
+- :phone
 <!---
 PrajwalBendale/PrajwalBendale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
