@@ -1,8 +1,8 @@
-<p align="center">
-# Hi there! 👋
-</p>
+<h1 align="center">
+Hi there! 👋
+</h1>
 
-## I’m Prajwal Bendale, Software Engineer
+<h1 align="center"> I’m Prajwal Bendale, Software Engineer</h1>
 
 - 🎓 Graduated with a degree in Engineering in Information technology from Savitribai Phule Pune University
 - 👀 I’m interested in Full Stack Web Development and Full Stack Native Mobile App Development
