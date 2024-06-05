@@ -15,8 +15,7 @@ Hi there! 👋
 
 - 💻 Develop robust and scalable software solutions
 
-* 🛠️ Work with
-
+* 🛠️ Work with :
   - Programming Languages — Java, Python, JavaScript, ReactJS, NodeJS, Spring Boot, Android, Swift, iOS-development
   - Familiar Languages — C, C++, AngularJS, Django
   - Database — MySQL, MongoDB, OracleDB
