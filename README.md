@@ -2,9 +2,10 @@
 
 ## I’m Prajwal Bendale, Software Engineer
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🎓 Graduated with a degree in Engineering in Information technology from Savitribai Phule Pune University
+- 👀 I’m interested in Full Stack Web Development and Full Stack Native Mobile App Development
+- 🌱 I’m currently learning deeply Native iOS Applications
+- 💞️ You can see my Resume through https://drive.google.com/file/d/1MlzDaFMYnTepIIau8QMndaKMVJQ8ntfe/view?usp=sharing
 - 📫 How to reach me prajwalbendale872@gmail.com
 
 <!---
