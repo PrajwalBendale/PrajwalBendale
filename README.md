@@ -27,7 +27,9 @@ Hi there! 👋
 - 📫 How to reach me prajwalbendale872@gmail.com
 - :phone: +918668577437
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
-[1]:https://www.linkedin.com/in/prajwal-bendale-85bb0b190?trk=contact-info
+
+  
+[1]: https://www.linkedin.com/in/prajwal-bendale-85bb0b190?trk=contact-info
 <!---
 PrajwalBendale/PrajwalBendale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
