@@ -2,13 +2,13 @@
 Hi there! 👋
 </h1>
 
-<h1 align="center"> I’m Prajwal Bendale, Software Engineer</h1>
+<h1 align="center"> I’m Prajwal Bendale, Software Developer</h1>
 
-## Aboute Me
+## About Me
 
 - 🎓 Graduated with a degree in Engineering with Information Technology branch from Savitribai Phule Pune University
 - 👀 I’m interested in Full Stack Web Development and Full Stack Native Mobile App Development
-- 🌱 I’m currently learning deeply Native iOS Applications
+- 🌱 Full-stack developer with a deep understanding of software architecture, scalability and performance optimization. Passionate about building robust web and mobile applications with clean, efficient code.
 - 💞️ You can view my updated Resume through [https://drive.google.com/file/d/1MlzDaFMYnTepIIau8QMndaKMVJQ8ntfe/view?usp=sharing](https://drive.google.com/file/d/1yZSDzuAZN5aR3tdQl5fgJuijU-6splNd/view?usp=sharing)
 
 ## What I can do
@@ -22,9 +22,10 @@ Hi there! 👋
   - Operating System Environments — MacOS
   - Tools — Android studio, Xcode, SpringToolSuite4, Postman, Tableau, PowerBI, etc
 
-## Lets Coonect
+## Lets Connect
+How to reach me
 
-- 📫 How to reach me prajwalbendale872@gmail.com
+- 📫 prajwalbendale872@gmail.com
 - :phone: +918668577437
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
 
