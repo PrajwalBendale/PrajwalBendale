@@ -9,7 +9,7 @@ Hi there! 👋
 - 🎓 Graduated with a degree in Engineering with Information Technology branch from Savitribai Phule Pune University
 - 👀 I’m interested in Full Stack Web Development and Full Stack Native Mobile App Development
 - 🌱 Full-stack developer with a deep understanding of software architecture, scalability and performance optimization. Passionate about building robust web and mobile applications with clean, efficient code.
-- 💞️ You can view my updated Resume through https://drive.google.com/file/d/1MlzDaFMYnTepIIau8QMndaKMVJQ8ntfe/view?usp=sharing
+- 💞️ You can view my updated Resume through https://drive.google.com/file/d/1F1LZF7z8EwerQrLGJNmmD-WWmwQ2ynqA/view?usp=sharing
 
 ## What I can do
 
