@@ -16,7 +16,7 @@
 - 🎓 Bachelor of Engineering in **Information Technology** from Savitribai Phule Pune University
 - 💻 Full-stack developer passionate about crafting robust web and mobile applications
 - 🏗️ Strong foundation in software architecture, scalability and performance optimization
-- 🔍 Dedicated to writing clean, efficient, and maintainable code
+- 🔍 Dedicated to writing clean, efficient and maintainable code
 - 🌱 Always learning and exploring new technologies
 
 ## 💻 Tech Stack
