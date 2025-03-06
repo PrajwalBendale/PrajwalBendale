@@ -1,37 +1,85 @@
-<h1 align="center">
-Hi there! 👋
-</h1>
+<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">I'm Prajwal Bendale, Software Developer</h1>
 
-<h1 align="center"> I’m Prajwal Bendale, Software Developer</h1>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:prajwalbendale872@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://drive.google.com/file/d/1F1LZF7z8EwerQrLGJNmmD-WWmwQ2ynqA/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
+</p>
 
-## About Me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen" alt="Profile Views">
+</div>
 
-- 🎓 Graduated with a degree in Information Technology Engineering from Savitribai Phule Pune University
-- 👀 I’m interested in Full Stack Web Development and Full Stack Native Mobile App Development
-- 🌱 Full-stack developer with a deep understanding of software architecture, scalability and performance optimization. Passionate about building robust web and mobile applications with clean, efficient code.
-- 💞️ You can view my updated Resume through https://drive.google.com/file/d/1F1LZF7z8EwerQrLGJNmmD-WWmwQ2ynqA/view?usp=sharing
+## 🚀 About Me
 
-## What I can do
+- 🎓 Bachelor of Engineering in **Information Technology** from Savitribai Phule Pune University
+- 💻 Full-stack developer passionate about crafting robust web and mobile applications
+- 🏗️ Strong foundation in software architecture, scalability and performance optimization
+- 🔍 Dedicated to writing clean, efficient, and maintainable code
+- 🌱 Always learning and exploring new technologies
 
-- 💻 Develop robust and scalable software solutions
+## 💻 Tech Stack
 
-* 🛠️ Work with :
-  - Programming Languages — Java, Spring Boot, Python, JavaScript, ReactJS, NodeJS, Swift, iOS-development, Android
-  - Familiar Languages — C, C++, AngularJS, NextJS, Django
-  - Database — MySQL, MongoDB, OracleDB
-  - Operating System Environments — MacOS, Windows
-  - Tools — Android studio, Xcode, SpringToolSuite4, Postman, Tableau, PowerBI, etc
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+</p>
 
-## Lets Connect
-How to reach me
+### 🛠️ Languages & Frameworks
 
-- 📫 prajwalbendale872@gmail.com
-- :phone: +918668577437
-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
+```
+Core: Java | Spring Boot | JavaScript | ReactJS | NodeJS | Python
+Mobile: Swift (iOS) | Android
+Familiar: C/C++ | AngularJS | NextJS | Django
+```
 
-  
-[1]: https://www.linkedin.com/in/prajwal-bendale-85bb0b190?trk=contact-info
-<!---
-PrajwalBendale/PrajwalBendale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🗄️ Databases
+```
+MySQL | MongoDB | OracleDB
+```
+
+### 🔧 Tools & Environments
+```
+Xcode | Android Studio | SpringToolSuite4 | Postman
+Tableau | PowerBI | Git | GitHub
+MacOS | Windows
+```
+
+## 🔥 What I Excel At
+
+- 🏗️ Architecting robust, scalable software solutions
+- 📱 Building responsive web and native mobile applications 
+- 🔌 Developing RESTful APIs and microservices
+- 🔍 Performance optimization and debugging
+- 📊 Database design and implementation
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+## 📫 Let's Connect
+
+<p align="center">
+  <b>Email:</b> prajwalbendale872@gmail.com<br>
+  <b>Phone:</b> +91 8668577437<br>
+  <b>Resume:</b> <a href="https://drive.google.com/file/d/1F1LZF7z8EwerQrLGJNmmD-WWmwQ2ynqA/view?usp=sharing">View Resume</a>
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together!</i>
+</p>
