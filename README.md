@@ -62,9 +62,9 @@ MacOS | Windows
 
 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalBendale&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalBendale&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <a href="https://github.com/PrajwalBendale">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalBendale&theme=tokyonight" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalBendale&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 <p align="center">
