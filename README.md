@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=PrajwalBendale&color=brightgreen" alt="Profile Views">
 </div>
 
 ## 🚀 About Me
@@ -63,7 +63,7 @@ MacOS | Windows
 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrajwalBendale&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrajwalBendale&theme=tokyonight)  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalBendale&theme=tokyonight" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalBendale&layout=compact&theme=tokyonight" alt="Top Languages" />
