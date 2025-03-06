@@ -2,7 +2,7 @@
 <h1 align="center">I'm Prajwal Bendale, Software Developer</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/prajwal-bendale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:prajwalbendale872@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://drive.google.com/file/d/1F1LZF7z8EwerQrLGJNmmD-WWmwQ2ynqA/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"></a>
 </p>
@@ -60,24 +60,14 @@ MacOS | Windows
 - 🔍 Performance optimization and debugging
 - 📊 Database design and implementation
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ## 📫 Let's Connect
 
 <p align="center">
   <b>Email:</b> prajwalbendale872@gmail.com<br>
   <b>Phone:</b> +91 8668577437<br>
-  <b>Resume:</b> <a href="https://drive.google.com/file/d/1F1LZF7z8EwerQrLGJNmmD-WWmwQ2ynqA/view?usp=sharing">View Resume</a>
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][1]
+  <b>Resume:</b> <a href="https://drive.google.com/file/d/1F1LZF7z8EwerQrLGJNmmD-WWmwQ2ynqA/view?usp=sharing">View Resume</a><br>
+  <a href="https://www.linkedin.com/in/prajwal-bendale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
