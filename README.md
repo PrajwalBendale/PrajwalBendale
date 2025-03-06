@@ -35,8 +35,8 @@
 ### 🛠️ Languages & Frameworks
 
 ```
-Core: Java | Spring Boot | JavaScript | ReactJS | NodeJS | Python
-Mobile: Swift (iOS) | Android
+Core: Java | Spring Boot | JavaScript | ReactJS | NodeJS | TypeScript | Python
+Mobile: Swift (iOS) | Java (Android)
 Familiar: C/C++ | AngularJS | NextJS | Django
 ```
 
@@ -47,9 +47,9 @@ MySQL | MongoDB | OracleDB
 
 ### 🔧 Tools & Environments
 ```
-Xcode | Android Studio | SpringToolSuite4 | Postman
-Tableau | PowerBI | Git | GitHub
-MacOS | Windows
+IntelliJ IDEA | Visual Studio Code | Xcode | Android Studio | SpringToolSuite4 | Postman
+MySQL Workbench | Tableau | PowerBI | Git | GitHub
+MacOS | Windows 
 ```
 
 ## 🔥 What I Excel At
@@ -74,9 +74,9 @@ MacOS | Windows
 ## 📫 Let's Connect
 
 <p align="center">
-  <b>Email:</b> prajwalbendale872@gmail.com<br>
-  <b>Phone:</b> +91 8668577437<br>
-  <b>Resume:</b> <a href="https://drive.google.com/file/d/1F1LZF7z8EwerQrLGJNmmD-WWmwQ2ynqA/view?usp=sharing">View Resume</a><br>
+  <b>Email:</b> prajwalbendale872@gmail.com<br><br>
+  <b>Phone:</b> +91 8668577437<br><br>
+  <b>Resume:</b> <a href="https://drive.google.com/file/d/1F1LZF7z8EwerQrLGJNmmD-WWmwQ2ynqA/view?usp=sharing">View Resume</a><br><br>
   <a href="https://www.linkedin.com/in/prajwal-bendale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
