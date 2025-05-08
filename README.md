@@ -38,7 +38,7 @@
 ```
 Core: Java | Spring Boot | JavaScript | ReactJS | NodeJS | TypeScript | Python
 Mobile: Swift (iOS) | Java (Android)
-Familiar: C/C++ | AngularJS | NextJS | Django
+Familiar: C/C++ | NextJS | Django
 ```
 
 ### 🗄️ Databases
