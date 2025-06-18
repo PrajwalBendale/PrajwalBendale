@@ -67,7 +67,7 @@ MacOS | Windows
 - 🔌 Developing secure REST APIs with JWT Auth and external integrations
 - 🛠️ Writing clean, scalable and production-grade backend code
 
-📈 GitHub Stats
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PrajwalBendale&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <a href="https://github.com/PrajwalBendale">
