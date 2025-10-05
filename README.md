@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/prajwal-bendale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:prajwalbendale872@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="[https://drive.google.com/file/d/1-6ziiqzHnrEttlNEKOUXpDTKM3UvgKZA/view?usp=share_link](https://drive.google.com/file/d/18bkaXGb0tW6iZ64WZEN6YxMifRDvTj6r/view?usp=sharing)"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
+  <a href="https://drive.google.com/file/d/1-6ziiqzHnrEttlNEKOUXpDTKM3UvgKZA/view?usp=share_link"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"></a>
 </p>
 
 <div align="center">
@@ -83,7 +83,7 @@ MacOS | Windows
 <p align="center">
   <b>Email:</b> prajwalbendale872@gmail.com<br><br>
   <b>Phone:</b> +91 8668577437<br><br>
-  <b>Resume:</b> <a href="[https://drive.google.com/file/d/1-6ziiqzHnrEttlNEKOUXpDTKM3UvgKZA/view?usp=share_link](https://drive.google.com/file/d/18bkaXGb0tW6iZ64WZEN6YxMifRDvTj6r/view?usp=sharing)">View Resume</a><br><br>
+  <b>Resume:</b> <a href="https://drive.google.com/file/d/1-6ziiqzHnrEttlNEKOUXpDTKM3UvgKZA/view?usp=share_link">View Resume</a><br><br>
   <a href="https://www.linkedin.com/in/prajwal-bendale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn"></a>
 </p>
 
