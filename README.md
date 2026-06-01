@@ -95,7 +95,7 @@ MacOS | Windows
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalBendale&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalBendale&layout=compact&theme=github_dark&hide_border=true" alt="GitHub Stats" />
   <a href="https://github.com/PrajwalBendale">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalBendale&theme=tokyonight" alt="GitHub Streak" />
   </a>
