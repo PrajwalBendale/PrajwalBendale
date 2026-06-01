@@ -13,13 +13,16 @@
 
 ## 🚀 About Me
 
-- 🎓 Bachelor of Engineering in **Information Technology** from Savitribai Phule Pune University
-- 💻 Full Stack Developer at Edsom Fintech, building scalable fintech systems using Spring Boot + ReactJS
-- 🧩 Specializing in Microservices (Kafka, OpenFeign), API Integration, and Modular Architecture
-- 🔁 Designed and deployed CI/CD pipelines using Jenkins and GitHub Actions across company-wide projects
-- 🏗️ Strong foundation in system architecture, scalability, and real-world performance optimization
-- 🔍 Dedicated to writing clean, efficient and maintainable code
-- 🌱 Always learning and exploring new technologies
+- 💼 Backend Engineer at Edsom Fintech building scalable fintech and distributed applications
+- 🏗️ Architecting Microservices using Spring Boot, Kafka, Redis and OpenFeign
+- 🔐 Experienced in JWT Authentication, Access & Refresh Tokens, Redis-backed token management and Encryption/Decryption
+- 🚀 Designed and implemented CI/CD pipelines using Jenkins and GitHub Actions
+- 📡 Working with API Gateway, Event-Driven Architecture, WebSockets and Distributed Systems
+- 💳 Integrated payment systems including Razorpay, CashFree, EaseBuzz and InstantPay
+- 📊 Experience with Prometheus, Grafana, Monitoring and Observability
+- 🐳 Containerizing and deploying applications using Docker
+- 🌐 Exposure to Node.js and Next.js SSR applications
+- ⚡ Interested in Cloud Computing, Edge Computing and System Design
 
 ## 💻 Tech Stack
 
@@ -37,6 +40,15 @@
 <img src="https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="OpenFeign">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
+
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
+
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
 </p>
 
 ### 🛠️ Languages & Frameworks
@@ -59,13 +71,27 @@ MySQL Workbench | Tableau | PowerBI | Git | GitHub
 MacOS | Windows 
 ```
 
-## 🔥 What I Excel At
+## 🔥 Core Expertise
 
-- 🧩 Architecting microservices using Spring Boot, Kafka, and OpenFeign
-- 🔁 Building and maintaining CI/CD pipelines (Jenkins + GitHub Actions)
-- 📱 Creating responsive web & mobile applications (ReactJS, Swift)
-- 🔌 Developing secure REST APIs with JWT Auth and external integrations
-- 🛠️ Writing clean, scalable and production-grade backend code
+- 🧩 Microservices Architecture & Distributed Systems
+- ⚡ Event-Driven Architecture using Kafka
+- 🔐 Secure Authentication (JWT, Access/Refresh Tokens, Encryption)
+- 🚀 CI/CD Automation using Jenkins & GitHub Actions
+- 🐳 Dockerized Application Deployment
+- 📡 API Gateway & Service Communication
+- 💳 Payment Gateway Integrations
+- 📊 Monitoring & Observability (Prometheus + Grafana)
+- 🔴 Redis Caching & Performance Optimization
+- 🌐 Real-Time Communication Systems using WebSockets
+
+  ## 🎯 Currently Learning
+
+- AWS Cloud
+- Kubernetes
+- Advanced System Design
+- Edge Computing
+- High Scale Architecture
+- Distributed Data Systems
 
 ## 📈 GitHub Stats
 <p align="center">
