@@ -110,7 +110,7 @@ MacOS | Windows
   <b>Email:</b> prajwalbendale872@gmail.com<br><br>
   <b>Phone:</b> +91 8668577437<br><br>
   <b>Resume:</b> <a href="https://drive.google.com/file/d/18bkaXGb0tW6iZ64WZEN6YxMifRDvTj6r/view">View Resume</a><br><br>
-  <a href="https://www.linkedin.com/in/prajwal-bendale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/prajwal-bendale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="LinkedIn"></a><br><br>
   <b>🚀 Open to International Opportunities & Dubai Relocation</b><br>
 </p>
 
