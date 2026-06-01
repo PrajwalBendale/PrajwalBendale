@@ -95,13 +95,13 @@ MacOS | Windows
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalBendale&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrajwalBendale&show_icons=true&theme=tokyonight&cache_seconds=86400" alt="GitHub Stats" />
   <a href="https://github.com/PrajwalBendale">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrajwalBendale&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalBendale&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajwalBendale&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ## 📫 Let's Connect
