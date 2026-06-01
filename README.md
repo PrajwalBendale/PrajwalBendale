@@ -84,7 +84,7 @@ MacOS | Windows
 - 🔴 Redis Caching & Performance Optimization
 - 🌐 Real-Time Communication Systems using WebSockets
 
-  ## 🎯 Currently Learning
+## 🎯 Currently Learning
 
 - AWS Cloud
 - Kubernetes
